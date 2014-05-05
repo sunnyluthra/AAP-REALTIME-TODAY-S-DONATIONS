@@ -1,0 +1,67 @@
+/* Put your CSS here */
+html, body {
+   
+}
+html{
+	background: #333 url("../images/binding_dark.png");
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+}
+.center{
+	text-align: center;
+	
+}
+.btn{
+	text-shadow: none;
+background: green;
+font-size: 12px;
+padding: 4px 8px;
+display: inline-block;
+margin-top: 18px;
+}
+#discourse-comments{
+	background: #fff;
+margin: 54px auto;
+width: 320px;
+text-align: center;
+padding: 30px;
+}
+#banner{
+	text-shadow: 2px 4px 0px #444, 9px 8px 0px rgba(0,0,0,0.15);
+	font-size: 20px;
+	width: 100%;
+	color: #f1f1f1;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+small{
+	display: block;
+	font-size: 12px;
+	text-transform: none;
+	text-shadow:none;
+	margin-top: 10px;
+	color: #888;
+}
+#totalDonation{
+	
+	text-shadow: 2px 4px 0px #444, 9px 8px 0px rgba(0,0,0,0.15);
+	font-size: 54px;
+	width: 100%;
+	color: #fff;
+}
+#footer{
+	margin-top: 60px;
+}
+a{
+	color: #eaeaea;
+	text-decoration: none;
+}
+a:hover{
+	color:#f1f1f1;
+}
+#social{
+	margin-top: 30px;
+}
